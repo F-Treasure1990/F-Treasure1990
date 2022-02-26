@@ -1,7 +1,8 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Fenton](https://silly-albattani-36984d.netlify.app/)!
 
-I work as a ~~web designer~~ front-end developer with UI/UX design skills (front-end designer). I´m based in Dublin, Ireland.
 I am currently a hobbyst developer, awwaiting to see where my obession leads me. Based in Birmingham, England 🏴󠁧󠁢󠁥󠁮󠁧󠁿.
+
+Web-development has been my obsession for the past few years, exploring both front-end and back-end methodologies. Front-end developement has currently been my main focus, with the goal of learning more backend methologies as time passes. <strong>JavaScript</strong> is my lanaguage of choice currently but I hold hopes of getting the opportunity to work with other languages, such as C# / PHP.
 <!--
 **F-Treasure1990/F-Treasure1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
