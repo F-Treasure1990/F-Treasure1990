@@ -1,5 +1,4 @@
-<img src="https://wallpaper.dog/large/20503317.jpg" width=100% height=50%>
-<h3>Hi, I'm Fenton 👋🏽 👨🏾‍💻 </h3>
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Fenton](https://silly-albattani-36984d.netlify.app/)!
 
 <!--
 **F-Treasure1990/F-Treasure1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
