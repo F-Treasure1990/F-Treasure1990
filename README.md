@@ -1,6 +1,5 @@
-![The San Juan Mountains are beautiful!](https://wallpaper.dog/large/20503317.jpg "Mr Coder")
 <img src="https://wallpaper.dog/large/20503317.jpg" width=50% height=50%>
-### Hi, I'm Fenton 👋🏽 👨🏾‍💻
+<h3>Hi, I'm Fenton 👋🏽 👨🏾‍💻 </h3>
 
 <!--
 **F-Treasure1990/F-Treasure1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
