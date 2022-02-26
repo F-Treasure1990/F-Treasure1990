@@ -1,4 +1,4 @@
-<img src="https://wallpaper.dog/large/20503317.jpg" width=50% height=50%>
+<img src="https://wallpaper.dog/large/20503317.jpg" width=100% height=50%>
 <h3>Hi, I'm Fenton 👋🏽 👨🏾‍💻 </h3>
 
 <!--
