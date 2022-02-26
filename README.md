@@ -5,5 +5,5 @@ I am currently a hobbyst developer, awwaiting to see where my obession leads me.
 - ⚡ Favourite Tools: NextJs / React / Sass / Node 
 - 🔭 I’m currently working on finding a role to develope my skillset
 - 🌱 I’m currently learning GraphQL / Typescript / Prisma / mySQL
-- 📫 How to reach me: fentoncodes@gmail.com
+- 📫 How to reach me: Fentoncodes@gmail.com
 
