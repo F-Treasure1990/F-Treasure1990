@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Fenton 👋🏽 👨🏾‍💻
 
 <!--
 **F-Treasure1990/F-Treasure1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
