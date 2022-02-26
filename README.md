@@ -17,7 +17,7 @@ const aspiringDeveloper = {
  email : FentonCodes@gmail.com,
  LinkdIn : Null,
  Instagram : Null,
- Personal
+ Personal: [Fenton](https://silly-albattani-36984d.netlify.app/)
 }
 ```
 
