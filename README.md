@@ -1,3 +1,5 @@
+![The San Juan Mountains are beautiful!](https://wallpaper.dog/large/20503317.jpg "Mr Coder")
+
 ### Hi, I'm Fenton 👋🏽 👨🏾‍💻
 
 <!--
